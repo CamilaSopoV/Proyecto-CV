@@ -1,0 +1,25 @@
+.letra-texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;font-size: 15px;
+}
+
+.nombre-principal{
+    /*background-color:aliceblue;*/
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.profile-description{
+    background-color: aliceblue;
+}
+
+.image-profile {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listas-sin-vineta{
+    list-style-type: none;
+}
